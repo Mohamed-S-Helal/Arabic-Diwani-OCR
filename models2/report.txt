@@ -1,0 +1,3 @@
+Score of 1L_NN: 0.9980172413793104
+Score of 2L_NN: 0.9983620689655173
+Score of Gaussian_Naive_Bayes: 0.8564224137931035
